@@ -27,3 +27,4 @@ const CartCard = ({name,price,image,id}) => {
 }
 
 export default CartCard
+//hgghe
